@@ -1,0 +1,1 @@
+Here are the solved answers of the five questions of Basic Logic Test. The codes for question 1, 2, 3 ,4 and 5 are written in the files names qus1.js, qus2.js, qus3.js, qus4.js and qus5.js respectively inside the "components" folder under "src".
